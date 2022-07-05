@@ -1,7 +1,18 @@
 {
-  "name": "client",
+  "name": "test-adv-counter",
+  "description": "test package",
+  "author": "VladPischaeff",
+  "license": "ISC",
   "version": "0.1.0",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vlad-Pischaeff/test-adv-counter.git"
+  },
+  "bugs": {
+      "url": "https://github.com/Vlad-Pischaeff/test-adv-counter/issues"
+  },
+  "homepage": "https://github.com/Vlad-Pischaeff/test-adv-counter#readme",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.3",
     "@testing-library/jest-dom": "^5.16.4",
