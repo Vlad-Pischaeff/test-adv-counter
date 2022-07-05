@@ -4,7 +4,6 @@
   "author": "VladPischaeff",
   "license": "ISC",
   "version": "0.1.0",
-  "private": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Vlad-Pischaeff/test-adv-counter.git"
