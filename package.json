@@ -11,6 +11,7 @@
   "bugs": {
       "url": "https://github.com/Vlad-Pischaeff/test-adv-counter/issues"
   },
+  "homepage": ".",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.3",
     "@testing-library/jest-dom": "^5.16.4",
