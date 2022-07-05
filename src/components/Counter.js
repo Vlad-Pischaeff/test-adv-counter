@@ -13,7 +13,6 @@ export const Counter = ({ counter }) => {
                     onClick={() => dispatch(decrement(counter.id))} >
                 -
             </button>
-
             <button className={styles.button}
                     onClick={() => dispatch(increment(counter.id))} >
                 +

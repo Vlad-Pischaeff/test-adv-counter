@@ -3,7 +3,7 @@
   "description": "test package",
   "author": "VladPischaeff",
   "license": "ISC",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Vlad-Pischaeff/test-adv-counter.git"
