@@ -11,6 +11,7 @@ const App = () => {
     useEffect(() => {
         const timerId = setInterval(() => dispatch(autoIncrement()), 1000);
         return () => { clearInterval(timerId) }
+        // eslint-disable-next-line
     }, [])
 
     const addNewCounter = () => {
